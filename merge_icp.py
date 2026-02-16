@@ -6,9 +6,7 @@ Implementation sans Open3D — utilise uniquement scipy, numpy et pyvista.
 Usage :
     python merge_icp.py <fichier1.ply> <fichier2.ply> [options]
 
-Exemple :
-    python merge_icp.py output/sparse/nuage_sparse_filtre.ply output2/sparse/nuage_sparse_filtre.ply --viz
-    python merge_icp.py output/sparse/nuage_sparse_filtre.ply output2/sparse/nuage_sparse_filtre.ply -o merged_icp.ply --max-iter 100
+Auteurs : Youri Larose - Maxence Robineau - Nathan Houel
 """
 
 import argparse
