@@ -20,8 +20,8 @@ from tqdm import tqdm
 # CONFIGURATION
 # =============================================================================
 
-CHEMIN_IMAGES_DEFAUT    = r"Images\parcours_2"
-DOSSIER_SORTIE_DEFAUT   = r"output2"
+CHEMIN_IMAGES_DEFAUT    = r"Images\parcours_1"
+DOSSIER_SORTIE_DEFAUT   = r"output"
 
 MODELE_CAMERA           = "OPENCV"
 UTILISER_GPU            = True
