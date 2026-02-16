@@ -1,0 +1,5 @@
+/home/pi/Documents/Tello/tello_cpp/ex_opencv/CMakeFiles/example.dir
+/home/pi/Documents/Tello/tello_cpp/ex_opencv/CMakeFiles/edit_cache.dir
+/home/pi/Documents/Tello/tello_cpp/ex_opencv/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/Tello/tello_cpp/ex_opencv/bin/CMakeFiles/edit_cache.dir
+/home/pi/Documents/Tello/tello_cpp/ex_opencv/bin/CMakeFiles/rebuild_cache.dir
